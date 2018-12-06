@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bsdiff</string>
+    <string name="help">help</string>
+    <string name="quit">quit</string>
+    <string name="string_help_text">The current application lacks the necessary permissions. \\n\\n please click \ "set \" - \ \ \ "permission \ \" - to open the required permissions. \\n\\n finally clicks the two back button to return.</string>
+    <string name="settings">Settings</string>
+
+</resources>
